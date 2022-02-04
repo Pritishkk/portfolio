@@ -1,0 +1,20 @@
+body{
+	background-image: url("bg.jpg");
+	background-repeat: repeat-y;
+	background-size: 100%;
+}
+.navbar-brand{
+	font-family: 'Barlow Condensed', sans-serif;
+	font-size: 30px;
+}
+
+h2{
+	color: seagreen;
+}
+
+h1{
+	color: lightyellow;
+}
+.btn-outline-success{
+	color: darkred;
+}
